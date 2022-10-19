@@ -1,0 +1,14 @@
+[
+      {
+        "name": "Grocery Store",
+        "position": [25.1212, 53.1535]
+      },
+      {
+        "name": "Gas Station",
+        "position": [12.3456, 5.2719]
+      },
+      {
+        "name": "Disneyland",
+        "position": [4.8765, 17.3273]
+      }
+]
